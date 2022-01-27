@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá!! Meu nome é Daniel Coelho
+# 👋 Olá!! Meu nome é Daniel Coelho
 - 🎼 King Jesus Worshiper
 - 👨‍👩‍👦‍👦 The happiest father in the world
 - 💻 Programming student and junior developer
