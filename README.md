@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Olá!! Meu nome é Daniel Coelho
 - 🎼 King Jesus Worshiper
 - 👨‍👩‍👦‍👦 The happiest father in the world
-- 💻 Programming student and junior developer
+- 💻 Passionate about technology
 - 🎸 In love with music and ⚽
 
 <div align="center">
